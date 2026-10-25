@@ -1,0 +1,6 @@
+uk_patch.exe
+uk_patch_linux
+patcher/payload/
+patcher/manifest.json
+*.pck
+*.zip
